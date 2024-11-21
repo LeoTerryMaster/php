@@ -46,4 +46,9 @@ echo gettype("Leandro");
 
 echo "<br>";
 
+echo 90-10 * 3;
+echo "<br>";
+
+echo (90-10) * 3;
+
 ?>
